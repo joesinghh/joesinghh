@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Joe-Sin7h&show_icons=true&theme=tokyonight" />
 <!--
 **Joe-Sin7h/Joe-Sin7h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
