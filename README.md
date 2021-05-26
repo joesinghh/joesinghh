@@ -33,7 +33,7 @@
 [![josingh481@gmail gmail](https://img.shields.io/badge/Gmail-D14836?style=style=flat-square&logo=gmail&logoColor=white&color=lightblue)](mailto:josingh481@gmail.com)
 [![Jogendra stackoverflow](https://img.shields.io/badge/-STACKOVERFLOW-D14836?style=style=flat-square&logo=stackoverflow&logoColor=white&color=orange)](https://stackoverflow.com/users/14537080/jogendra?tab=profile)
 [![Code With Joe youtube](https://img.shields.io/badge/-YOUTUBE-informational?style=style=flat-square&logo=youtube&logoColor=white&color=red)](https://www.youtube.com/channel/UCMBs4E6MY4qjEVJBywr7l5Q)
-[![@_JoeSingh_ twitter](https://img.shields.io/badge/-TWITTER-informational?style=style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/_JoeSingh_/)
+[![@joe__singh twitter](https://img.shields.io/badge/-TWITTER-informational?style=style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/joe__singh/)
 [![code.with.joe instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=style=flat-square&logo=instagram&logoColor=white&color=grey)](https://instagram.com/code.with.joe/)
 [![jogendrasing481 fiverr](https://img.shields.io/badge/-FIVERR-informational?style=style=flat-square&logo=fiverr&logoColor=white&color=brightgreen)](https://fiverr.com/jogendrasing481)
 
