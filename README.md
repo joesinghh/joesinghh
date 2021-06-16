@@ -1,5 +1,5 @@
 <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
-<img src="/img/banner.jpg">
+<!-- <img src="/img/banner.jpg"> -->
 <h1 align="center"> Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <details open>
