@@ -15,7 +15,7 @@
 <summary style="cursor: pointer;">TECH STACK</summary>
 <div align=center>
 
-<img src="./img/Javascript.svg"  height=50 width=55 title="Javascript">
+<!-- <img src="./img/Javascript.svg"  height=50 width=55 title="Javascript"> -->
 <img>
 <img src="./img/Python.png"  height=50 width=55 title="Python">
 <img>
