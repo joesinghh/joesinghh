@@ -35,7 +35,7 @@
 [![Jogendra stackoverflow](https://img.shields.io/badge/-LINKEDIN-D14836?style=style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jogendra-singh-bangalore/)
 [![Code With Joe youtube](https://img.shields.io/badge/-YOUTUBE-informational?style=style=flat-square&logo=youtube&logoColor=white&color=red)](https://www.youtube.com/channel/UCMBs4E6MY4qjEVJBywr7l5Q)
 [![@joe__singh twitter](https://img.shields.io/badge/-TWITTER-informational?style=style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/joe__singh/)
-[![code.with.joe instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=style=flat-square&logo=instagram&logoColor=white&color=grey)](https://instagram.com/code.with.joe/)
+[![code.with.joe instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=style=flat-square&logo=instagram&logoColor=white&color=grey)](https://instagram.com/codezeal/)
 [![jogendrasing481 fiverr](https://img.shields.io/badge/-FIVERR-informational?style=style=flat-square&logo=fiverr&logoColor=white&color=brightgreen)](https://fiverr.com/jogendrasing481)
 
 
