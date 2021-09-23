@@ -6,9 +6,9 @@
 <summary style="cursor: pointer;">GITHUB STATS</summary>
 <div align=center>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe-Sin7h&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/Joe-Sin7h)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe-Sin7h&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/Joe-Sin7h)<img src="https://uploads.scratch.mit.edu/users/avatars/59579291.png" align="right">
 <!--  <img src="https://64.media.tumblr.com/43c1972d9db3d346cfb28ec27abed385/tumblr_os8i9xDnKF1ru8sjvo1_250.gif" align='right' height="250px" width="150px">  -->
-<img src="https://uploads.scratch.mit.edu/users/avatars/59579291.png" align="right" height="250px" width="200px">
+
 <!--  -->
 <!-- -->
 
@@ -17,7 +17,7 @@ Ichigo
 <img src="https://c.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" >
  Itachi
 <img src="https://uploads.scratch.mit.edu/users/avatars/59579291.png" align="bottom">
-
+<img src="https://uploads.scratch.mit.edu/users/avatars/59579291.png" align="right" height="250px" width="200px">
 Sasuke
 <img src="https://c.tenor.com/Yu4CqdVSg7gAAAAj/sasuke-sword.gif" align='right'>
 -->
