@@ -1,12 +1,26 @@
 <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
 <!-- <img src="/img/banner.jpg"> -->
-<h1 align="center"> Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center"> Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+ 
 
 <details open>
 <summary style="cursor: pointer;">GITHUB STATS</summary>
 <div align=center>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe-Sin7h&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/Joe-Sin7h)
+ <img src="https://64.media.tumblr.com/43c1972d9db3d346cfb28ec27abed385/tumblr_os8i9xDnKF1ru8sjvo1_250.gif" align='right' height="300px" width="200px"> 
+<!--  -->
+<!-- -->
+
+<!--
+Ichigo 
+<img src="https://c.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" >
+ Itachi
+<img src="https://uploads.scratch.mit.edu/users/avatars/59579291.png" align="bottom">
+
+Sasuke
+<img src="https://c.tenor.com/Yu4CqdVSg7gAAAAj/sasuke-sword.gif" align='right'>
+-->
 </div>
 </details>
 
@@ -38,6 +52,7 @@
 [![code.with.joe instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=style=flat-square&logo=instagram&logoColor=white&color=grey)](https://instagram.com/codezeal/)
 [![jogendrasing481 fiverr](https://img.shields.io/badge/-FIVERR-informational?style=style=flat-square&logo=fiverr&logoColor=white&color=brightgreen)](https://fiverr.com/jogendrasing481)
 
+ 
 
 </div>
 </details>
