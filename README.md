@@ -4,6 +4,7 @@
  
 <details open>
 <summary style="cursor: pointer;">GITHUB STATS</summary>
+<br>
 <div align=center>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe-Sin7h&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/Joe-Sin7h)<img src="https://uploads.scratch.mit.edu/users/avatars/59579291.png" align="right">
