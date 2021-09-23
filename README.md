@@ -2,13 +2,13 @@
 <!-- <img src="/img/banner.jpg"> -->
 <h1 align="center"> Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
  
-
 <details open>
 <summary style="cursor: pointer;">GITHUB STATS</summary>
 <div align=center>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe-Sin7h&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/Joe-Sin7h)
- <img src="https://64.media.tumblr.com/43c1972d9db3d346cfb28ec27abed385/tumblr_os8i9xDnKF1ru8sjvo1_250.gif" align='right' height="250px" width="150px"> 
+<!--  <img src="https://64.media.tumblr.com/43c1972d9db3d346cfb28ec27abed385/tumblr_os8i9xDnKF1ru8sjvo1_250.gif" align='right' height="250px" width="150px">  -->
+<img src="https://uploads.scratch.mit.edu/users/avatars/59579291.png" align="right" height="250px" width="200px">
 <!--  -->
 <!-- -->
 
