@@ -1,7 +1,7 @@
 <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
 <div  width="100%" align="left">
  
-  ![profile view count](https://komarev.com/ghpvc/?username=Joe-Sin7h&style=flat-square)
+<!--   ![profile view count](https://komarev.com/ghpvc/?username=Joe-Sin7h&style=flat-square) -->
  
  <h1 width=100% ><img src="https://c.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" align=bottom><p align=center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
  </h1>
