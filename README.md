@@ -1,7 +1,7 @@
 <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
 <div  width="100%">
  
- <h1 width=100% algin=bottom><img src="https://c.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" align=bottom><p align=center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+ <h1 width=100% ><img src="https://c.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" align=bottom><p align=center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
  </h1>
 </div>
 <br>
