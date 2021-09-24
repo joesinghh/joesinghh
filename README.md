@@ -3,7 +3,7 @@
  
 <!--   ![profile view count](https://komarev.com/ghpvc/?username=Joe-Sin7h&style=flat-square) -->
  
- <h1 width=100% ><img src="https://c.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" align=bottom><p align=center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+ <h1 width=100% ><p align=center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
  </h1>
 </div>
 <br>
