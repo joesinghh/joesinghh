@@ -107,17 +107,18 @@
 </div>
 </details>
 
-<details open>
+<!-- <details open>
 <summary style="cursor: pointer;">GITHUB STATS</summary>
 <br>
 <div align=center>
-  
-[![Jogendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joe-Sin7h&theme=react-dark)](https://github.com/Joe-Sin7h)
-
+ 
+[![Jogendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joe-Sin7h&hide_border=true)](https://github.com/Joe-Sin7h)
+ 
  
 </div>
-</details>
- 
+</details> -->
+
+
  
 [linkedin]: https://www.linkedin.com/in/jogendra-singh-bangalore "LinkedIn"
 [twitter]: https://twitter.com/iamjogendra "Twitter"
