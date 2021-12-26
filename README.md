@@ -9,7 +9,7 @@
 
  
  <a href="#Joe-Sin7h-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joe-Sin7h&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" alt="JogendraSingh" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joesinghh&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" alt="JogendraSingh" align="right" />
 </a>
 
 
