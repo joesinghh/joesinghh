@@ -37,42 +37,42 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#joesinghh">
         <img src="./img/Python.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#joesinghh">
         <img src="./img/Javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#joesinghh">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
     </td>
    <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
+      <a href="#joesinghh" >
         <img src="./img/C.png" width="48" height="48" alt="C" />
       </a>
       <br>C Lang
     </td>
    <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#joesinghh" >
         <img src="./img/Linux.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#joesinghh" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#joesinghh">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
