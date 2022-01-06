@@ -1,17 +1,14 @@
 <!--   ![profile view count](https://komarev.com/ghpvc/?username=Joe-Sin7h&style=flat-square) -->
- 
- <h1 width=100% ><p align=center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
- </h1>
- 
 
- 
+<!-- markdownlint-disable-next-line -->
+<h1 width=100% ><p align=center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+</h1>
+
 <h3 align="left">I am a Student Developer</h3>
 
- 
  <a href="#Joe-Sin7h-title">
   <img src="https://github-readme-stats.vercel.app/api?username=joesinghh&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" alt="JogendraSingh" align="right" />
 </a>
-
 
 - 🏫 &nbsp;Pursuing BCA at **Christ University, bangalore**.
 - 🕸️ &nbsp;I’m currently learning about **Web 3.0**.
@@ -77,16 +74,14 @@
       </a>
       <br>Bash
     </td>
-    
 
   </tr>
-  
 
 <!--   <tr>
-    
+
    
   </tr> -->
-    
+
 </table>
 
 </div>
@@ -96,12 +91,12 @@
 <summary style="cursor: pointer;">CONTACT ME</summary>
 <div align=center>
 <br>
- 
-[![josingh481@gmail gmail](https://img.shields.io/badge/Gmail-D14836?style=style=flat-square&logo=gmail&logoColor=white&color=lightblue)](mailto:josingh481@gmail.com)
-[![Jogendra stackoverflow](https://img.shields.io/badge/-STACKOVERFLOW-D14836?style=style=flat-square&logo=stackoverflow&logoColor=white&color=orange)](https://stackoverflow.com/users/14537080/jogendra?tab=profile)
-[![Jogendra stackoverflow](https://img.shields.io/badge/-LINKEDIN-D14836?style=style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jogendra-singh-bangalore/)
-[![@joe__singh twitter](https://img.shields.io/badge/-TWITTER-informational?style=style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/iamjogendra/)
-[![jogendrasing481 fiverr](https://img.shields.io/badge/-FIVERR-informational?style=style=flat-square&logo=fiverr&logoColor=white&color=brightgreen)](https://fiverr.com/jogendrasing481)
+
+[![josingh481@gmail gmail](https://img.shields.io/badge/Gmail-E4405F?style=style=flat-square&logo=gmail&logoColor=red&color=white)](mailto:josingh481@gmail.com)
+[![Jogendra StackOverflow](https://img.shields.io/badge/-StackOverflow-D14836?style=style=flat-square&logo=stackoverflow&logoColor=orange&color=red)](https://stackoverflow.com/users/14537080/jogendra?tab=profile)
+[![Jogendra LinkedIn](https://img.shields.io/badge/-LinkedIn-D14836?style=style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jogendra-singh-bangalore/)
+[![@joe__singh Twitter](https://img.shields.io/badge/-Twitter-informational?style=style=flat-square&logo=twitter&logoColor=white&colorB=00acee)](https://twitter.com/iamjogendra/)
+[![jogendrasing481 fiverr](https://img.shields.io/badge/-Fiverr-informational?style=style=flat-square&logo=fiverr&logoColor=white&colorB=1dbf73)](https://fiverr.com/jogendrasing481)
 <!-- [![code.with.joe instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=style=flat-square&logo=instagram&logoColor=white&color=grey)](https://instagram.com/codezeal/) -->
  <!-- [![Code With Joe youtube](https://img.shields.io/badge/-YOUTUBE-informational?style=style=flat-square&logo=youtube&logoColor=white&color=red)](https://www.youtube.com/channel/UCMBs4E6MY4qjEVJBywr7l5Q) -->
 </div>
@@ -119,10 +114,8 @@
 </details> -->
 
 
- 
 [linkedin]: https://www.linkedin.com/in/jogendra-singh-bangalore "LinkedIn"
 [twitter]: https://twitter.com/iamjogendra "Twitter"
-
 
 <!-- GIFs -->
 <!--  <img src="https://uploads.scratch.mit.edu/users/avatars/59579291.png" align="right"> -->
