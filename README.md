@@ -93,7 +93,7 @@
 <br>
 
 [![josingh481@gmail gmail](https://img.shields.io/badge/Gmail-E4405F?style=style=flat-square&logo=gmail&logoColor=red&color=white)](mailto:josingh481@gmail.com)
-[![Jogendra StackOverflow](https://img.shields.io/badge/-StackOverflow-D14836?style=style=flat-square&logo=stackoverflow&logoColor=orange&color=red)](https://stackoverflow.com/users/14537080/jogendra?tab=profile)
+[![Jogendra StackOverflow](https://img.shields.io/badge/-StackOverflow-D14836?style=style=flat-square&logo=stackoverflow&logoColor=ff5833&color=ff9e38)](https://stackoverflow.com/users/14537080/jogendra?tab=profile)
 [![Jogendra LinkedIn](https://img.shields.io/badge/-LinkedIn-D14836?style=style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jogendra-singh-bangalore/)
 [![@joe__singh Twitter](https://img.shields.io/badge/-Twitter-informational?style=style=flat-square&logo=twitter&logoColor=white&colorB=00acee)](https://twitter.com/iamjogendra/)
 [![jogendrasing481 fiverr](https://img.shields.io/badge/-Fiverr-informational?style=style=flat-square&logo=fiverr&logoColor=white&colorB=1dbf73)](https://fiverr.com/jogendrasing481)
