@@ -14,7 +14,7 @@
 - 🕸️ &nbsp;I’m currently learning about **Web 3.0**.
 - 💬 &nbsp;I like to talk about **Web 3.0** and **Python**.
 - 👨‍💼 &nbsp;I work as a freelance python developer.
-- 🍓 &nbsp;I love anime, food, and music 🎵.
+- 🍓 &nbsp;I love food and music 🎵.
 - 🔮 &nbsp;Feel free to ask for help :)
 - 💻 &nbsp;Let's connect on **[LinkedIn]** and **[Twitter]**.
 
