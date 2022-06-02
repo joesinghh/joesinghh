@@ -1,7 +1,7 @@
 <!--   ![profile view count](https://komarev.com/ghpvc/?username=Joe-Sin7h&style=flat-square) -->
 
 <!-- markdownlint-disable-next-line -->
-<h1 width=100% ><p align=center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+<h1 width=100% ><p align=center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></p>
 </h1>
 
 <h3 align="left">I am a Student Developer</h3>
