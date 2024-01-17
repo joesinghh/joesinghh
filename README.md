@@ -1,24 +1,8 @@
 <!--   ![profile view count](https://komarev.com/ghpvc/?username=Joe-Sin7h&style=flat-square) -->
 
 <!-- markdownlint-disable-next-line -->
-<h1 width=100% ><p align=center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></p>
-</h1>
-
-<h3 align="left">I am a Student Developer</h3>
-
- <a href="#Joe-Sin7h-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=joesinghh&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" alt="JogendraSingh" align="right" />
-</a>
-
-- 🏫 &nbsp;Pursuing BCA at **Christ University, bangalore**.
-- 🕸️ &nbsp;I’m currently learning about **Web 3.0**.
-- 💬 &nbsp;I like to talk about **Web 3.0** and **Python**.
-- 👨‍💼 &nbsp;I work as a freelance python developer.
-- 🍓 &nbsp;I love food and music 🎵.
-- 🔮 &nbsp;Feel free to ask for help :)
-- 💻 &nbsp;Let's connect on **[LinkedIn]** and **[Twitter]**.
-
-<br>
+<!-- <h1 width=100% ><p align=center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></p> -->
+<br> 
 
 <details open>
  
